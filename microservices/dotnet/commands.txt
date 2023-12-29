@@ -1,0 +1,6 @@
+Commands to run for this specific part :-
+
+* dotnet new web -n ProductService
+
+# After running the above command you need to cd to ProductService folder and need to run the below command there.
+* dotnet run
